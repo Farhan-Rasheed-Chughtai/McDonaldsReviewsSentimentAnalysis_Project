@@ -31,11 +31,12 @@ Medium-Risk Goals (Sentiment Classification Models):
 
 Converted ratings into three classes:
 
-  Negative (1–2), Neutral (3), Positive (4–5)
+Negative (1–2), Neutral (3), Positive (4–5)
 Trained five models: Logistic Regression, Random Forest, MultinomialNB, BernoulliNB, SVC
-  Random Forest performed best but struggled with neutral sentiment (low recall).
+Random Forest performed best but struggled with neutral sentiment (low recall).
+
 Used BERT embeddings to enhance model input:
- Significantly improved classification performance, especially for neutral reviews.
+Significantly improved classification performance, especially for neutral reviews.
 
 High-Risk Goals (Time-Series Analysis):
 
