@@ -15,16 +15,8 @@ Best and worst-rated stores were distributed mostly along the East and West coas
 
 Low-Risk Goals (Location & Sentiment Analysis):
 
-Calculated average ratings by city and state:
-
-Best-rated city: Annadale.
-Worst-rated cities: Miami Beach, Salt Lake City.
-Worst states: Florida and Utah.
-
-Created word clouds:
-
-Positive reviews emphasized “service,” “food,” and “fast.”
-Negative reviews highlighted “rude,” “bad,” “drive,” and “order,” indicating service quality was a major driver of sentiment.
+Calculated average ratings by city and state Best-rated city: Annadale. Worst-rated cities: Miami Beach, Salt Lake City. Worst states: Florida and Utah.
+Created word clouds : Positive reviews emphasized “service,” “food,” and “fast.” Negative reviews highlighted “rude,” “bad,” “drive,” and “order,” indicating service quality was a major driver of sentiment.
 Suggested improvements should focus on staff attitude and delivery speed, especially in low-performing locations.
 
 Medium-Risk Goals (Sentiment Classification Models):
