@@ -29,9 +29,7 @@ Suggested improvements should focus on staff attitude and delivery speed, especi
 
 Medium-Risk Goals (Sentiment Classification Models):
 
-Converted ratings into three classes:
-
-Negative (1–2), Neutral (3), Positive (4–5)
+Converted ratings into three classes : Negative (1–2), Neutral (3), Positive (4–5)
 Trained five models: Logistic Regression, Random Forest, MultinomialNB, BernoulliNB, SVC
 Random Forest performed best but struggled with neutral sentiment (low recall).
 
