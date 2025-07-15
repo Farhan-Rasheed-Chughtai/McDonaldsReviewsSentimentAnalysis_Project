@@ -1,4 +1,4 @@
-Overview:
+Overview: (Refer to the full report for more details : [Report](Team8_Project_Report.pdf))
 
 This project aimed to analyze customer reviews from McDonald’s stores across the U.S. using natural language processing (NLP) and machine learning techniques. The goal was to extract sentiment insights, identify regional trends, and evaluate performance over time to help McDonald's improve customer experience.
 
