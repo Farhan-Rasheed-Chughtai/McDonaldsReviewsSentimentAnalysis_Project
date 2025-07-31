@@ -23,8 +23,8 @@ Sentiment Classification Models:
 
 Converted ratings into three classes : Negative (1–2), Neutral (3), Positive (4–5)
 Trained five models: Logistic Regression, Random Forest, MultinomialNB, BernoulliNB, SVC.
-Random Forest performed best but struggled with neutral sentiment (low recall). Used BERT embeddings to enhance model input
-which significantly improved classification performance, especially for neutral reviews.
+Random Forest performed best but struggled with neutral sentiment (low recall). Used BERT pretrained model from hugging face to get embeddings to enhance model input which significantly improved classification performance, especially for neutral reviews.
+
 
 Time-Series Analysis:
 
